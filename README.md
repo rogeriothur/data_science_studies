@@ -5,7 +5,7 @@ Aqui você encontra os *notebooks* dos meus estudos na área de Data Science, Ma
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Análise de Dados Airbnb (Toronto):** https://bit.ly/rogeriothur-airbnb
+* **Análise de Dados Airbnb (Toronto):** https://bit.ly/airbnb-rogeriothur
 
 ---
 
