@@ -7,6 +7,7 @@ Lista de projetos em Jupyter Notebook:
 
 * **Análise de Dados Airbnb (Toronto):** https://bit.ly/airbnb-rogeriothur
 * **Prevendo churn clientes do banco:** https://bit.ly/churnbank-rogeriothur
+* **Análise de sentimentos tweet covid:** https://bit.ly/nlpsentiment-rogeriothur
 
 ---
 
